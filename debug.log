@@ -1,0 +1,46 @@
+INFO:assistant.utils:Starting assistant thread...
+INFO:assistant.utils:Starting assistant...
+DEBUG:assistant.utils:Speaking: Hello, I am your personal voice assistant. How can I help you?
+DEBUG:comtypes._post_coinit.unknwn:Calling CoUninitialize()
+DEBUG:comtypes._post_coinit.unknwn:CoUninitialize() done.
+WARNING:django.request:Not Found: /ws/assistant/
+WARNING:django.request:Not Found: /ws/assistant/
+WARNING:django.request:Not Found: /ws/assistant/
+WARNING:django.request:Not Found: /ws/assistant/
+WARNING:django.request:Not Found: /ws/assistant/
+WARNING:django.request:Not Found: /ws/assistant/
+DEBUG:comtypes._post_coinit.unknwn:Calling CoUninitialize()
+DEBUG:comtypes._post_coinit.unknwn:CoUninitialize() done.
+DEBUG:comtypes._comobject:<comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x00000128D885AE40>.Release() -> 0
+DEBUG:comtypes._comobject:0 active COM objects: Removed <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x00000128D885AE40>
+DEBUG:comtypes._comobject:Remaining: []
+WARNING:django.request:Not Found: /ws/assistant/
+DEBUG:comtypes._post_coinit.unknwn:Calling CoUninitialize()
+DEBUG:comtypes._post_coinit.unknwn:CoUninitialize() done.
+DEBUG:comtypes._comobject:<comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001FB0736EF90>.Release() -> 0
+DEBUG:comtypes._comobject:0 active COM objects: Removed <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001FB0736EF90>
+DEBUG:comtypes._comobject:Remaining: []
+DEBUG:comtypes._post_coinit.unknwn:Calling CoUninitialize()
+DEBUG:comtypes._post_coinit.unknwn:CoUninitialize() done.
+DEBUG:comtypes._comobject:<comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x0000021EC2DAEF90>.Release() -> 0
+DEBUG:comtypes._comobject:0 active COM objects: Removed <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x0000021EC2DAEF90>
+DEBUG:comtypes._comobject:Remaining: []
+WARNING:django.request:Not Found: /ws/assistant/
+DEBUG:comtypes._post_coinit.unknwn:Calling CoUninitialize()
+DEBUG:comtypes._post_coinit.unknwn:CoUninitialize() done.
+DEBUG:comtypes._comobject:<comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001CFEDB46F90>.Release() -> 0
+DEBUG:comtypes._comobject:0 active COM objects: Removed <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001CFEDB46F90>
+DEBUG:comtypes._comobject:Remaining: []
+WARNING:django.request:Not Found: /ws/assistant/
+INFO:django.utils.autoreload:C:\Users\mnde\Desktop\apps\Voice Assistant\voice_assistant\voice_assistant\settings.py changed, reloading.
+DEBUG:comtypes._post_coinit.unknwn:Calling CoUninitialize()
+DEBUG:comtypes._post_coinit.unknwn:CoUninitialize() done.
+DEBUG:comtypes._comobject:<comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x00000166618AEF90>.Release() -> 0
+DEBUG:comtypes._comobject:0 active COM objects: Removed <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x00000166618AEF90>
+DEBUG:comtypes._comobject:Remaining: []
+INFO:django.utils.autoreload:C:\Users\mnde\Desktop\apps\Voice Assistant\voice_assistant\assistant\utils.py changed, reloading.
+DEBUG:comtypes._post_coinit.unknwn:Calling CoUninitialize()
+DEBUG:comtypes._post_coinit.unknwn:CoUninitialize() done.
+DEBUG:comtypes._comobject:<comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001BE29C3AE40>.Release() -> 0
+DEBUG:comtypes._comobject:0 active COM objects: Removed <comtypes.client._events.CreateEventReceiver.<locals>.Sink object at 0x000001BE29C3AE40>
+DEBUG:comtypes._comobject:Remaining: []
