@@ -7,7 +7,7 @@ import requests
 
 # Define the base URL and API key for the weather service
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather?"
-API_KEY = "0e3b99179c3bdd74ae6091455ae01d15"
+API_KEY = "+++++++++++++++"
 
 # Initialize the recognizer and the text-to-speech engine globally
 recognizer = sr.Recognizer()
